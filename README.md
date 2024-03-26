@@ -1,4 +1,4 @@
-# Rapport
+# Report
 
 A fork was created of the app "mobileapp-programming-hello" which was then imported into Android Studio.
 The files were manually scanned to locate the text "Hello", which was found in the file '/app/res/values/strings.xml'
